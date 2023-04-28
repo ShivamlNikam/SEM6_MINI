@@ -8,8 +8,7 @@ The trained model was used to fetch the calorie count of each classified food it
 Simple visualizations were performed to demonstrate the implementation of the prediction of food items. The predicted food item along with its image and calorie count was displayed in a simple UI.
 
 ## Stremlit App
-A simple streamlit app was created to dem![Uploading sc1.PNG…]()
-onstrate the working of the trained model. The app allows the user to upload an image of a food item and get the predicted food item along with its calorie count.
+A simple streamlit app was created to demonstrate the working of the trained model. The app allows the user to upload an image of a food item and get the predicted food item along with its calorie count.
 
 <img width="366" alt="sc1" src="https://user-images.githubusercontent.com/72351252/235210439-ce4089d3-78c4-4fff-9777-4b8739bb84ed.PNG">
 

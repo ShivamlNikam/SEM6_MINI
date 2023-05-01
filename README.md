@@ -1,5 +1,5 @@
 ## Model Training and Validation
-The CNN based deep learning model was trained and validated on the Food-101 dataset. This dataset contains 101,000 images of different types of foods, with 1,000 images per category. The model was trained using transfer learning with a pre-trained VGG16 model as the base. The trained model achieved an accuracy of over 90% on the test set.
+The CNN based deep learning model was trained and validated on the Food-101 dataset. This dataset contains 101,000 images of different types of foods, with 1,000 images per category. The model was trained using transfer learning with a pre-trained Efficient Net model as the base. The trained model achieved an accuracy of over 90% on the test set.
 
 ## Calorie Tracking
 The trained model was used to fetch the calorie count of each classified food item. The fetched calorie count was then displayed alongside the predicted food item.

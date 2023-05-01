@@ -10,7 +10,6 @@ Simple visualizations were performed to demonstrate the implementation of the pr
 ## Stremlit App
 A simple streamlit app was created to demonstrate the working of the trained model. The app allows the user to upload an image of a food item and get the predicted food item along with its calorie count.
 
-<img width="366" alt="sc1" src="https://user-images.githubusercontent.com/72351252/235210439-ce4089d3-78c4-4fff-9777-4b8739bb84ed.PNG">
 
 ![hsiajasdh](https://user-images.githubusercontent.com/72351252/235462152-7d28562d-9ff4-4c3f-b661-f978e72bca74.png)
 

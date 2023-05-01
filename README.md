@@ -11,7 +11,8 @@ Simple visualizations were performed to demonstrate the implementation of the pr
 A simple streamlit app was created to demonstrate the working of the trained model. The app allows the user to upload an image of a food item and get the predicted food item along with its calorie count.
 
 <img width="366" alt="sc1" src="https://user-images.githubusercontent.com/72351252/235210439-ce4089d3-78c4-4fff-9777-4b8739bb84ed.PNG">
-![image](https://user-images.githubusercontent.com/72351252/235461916-a9585e91-e37e-4770-a06d-5920a75b31f4.png)
+![image](https://user-images.githubusercontent.com/72351252/235462017-8df8cdb2-13ad-4b05-a463-b88c62e601bc.png)
+
 
 ## Food Tracking Camera App
 A prototype of an intuitive application UI and the Food tracking camera app was created using computer vision and tensorflow. The app allows the user to take a picture of a food item using their phone's camera and get the predicted food item along with its calorie count.
